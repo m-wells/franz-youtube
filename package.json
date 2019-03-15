@@ -4,9 +4,9 @@
   "version": "1.0.0",
   "description": "YouTube",
   "main": "index.js",
-  "author": "altescy",
+  "author": "m-wells",
   "license": "MIT",
-  "repository": "https://github.com/altescy/franz-youtube",
+  "repository": "https://github.com/m-wells/franz-youtube",
   "config": {
     "serviceURL": "https://www.youtube.com"
   }
